@@ -1,0 +1,326 @@
+/*
+ Theme Name:   Groppe Child
+ Theme URI:    http://victorthemes/themes/groppe
+ Description:  Groppe Child Theme
+ Author:       VictorThemes
+ Author URI:   http://themeforest.net/user/VictorThemes/portfolio
+ Template:     groppe
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         one-column, two-columns, left-sidebar, right-sidebar, custom-menu, featured-images, post-formats, theme-options, translation-ready
+ Text Domain:  groppe-child
+*/
+
+/* Write Custom CSS */
+
+/* Home Page */
+
+.homeContainer {
+    background-color: yellow;
+    text-align: center;
+}
+
+.mtdsaDescription {
+  border-bottom: solid;
+}
+
+.resourceContainer {
+    background-color: yellow;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.resources {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid;
+    align-items: center;
+
+}
+.resourceInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:25px;
+}
+@media (max-width: 420px) {
+  .resourceContainer {
+      background-color: yellow;
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+  }
+  .resources {
+      display: flex;
+      justify-content: center;
+      border-bottom: solid;
+      flex-direction: column;
+      align-items: center
+  }
+  .resourceInfo {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+  .grop-banner-area {
+    background-image: url(https://mtdsa.org/wp-content/uploads/2017/10/awarenessproject-awarenessproject-0002-600x400.jpg);
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-attachment: ;
+    background-position: 24%;
+    height: 500px;
+}
+}
+
+.boardMemberHeader {
+    text-align: center;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.boardMembers {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid;
+    flex-wrap: wrap;
+}
+.boardMember {
+    display: flex;
+    width: 21%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 3px solid black;
+}
+img.boardMemberImage {
+    border-radius: 50%;
+    height:200px;
+}
+
+.boardMember:hover {
+    /* opacity: .7; */
+    background-color: gray;
+}
+
+@media (max-width: 420px) {
+  .boardMembers {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: solid;
+      flex-wrap: wrap;
+  }
+  .boardMember {
+      border: 2px solid black;
+      padding: 50px 50px 50px 50px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  .boardMember:hover {
+      background-color: gray;
+  }
+}
+
+.grop-flax_vr-middle.grop-fix.grop-cusigl_dnt {
+    border-bottom: solid;
+}
+.donateHeader {
+    text-align: center;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h3.helpDonate {
+    text-align: center;
+}
+button.btn.btn-primary.donateButton {
+    display: block;
+    margin: 0 auto;
+}
+.mtdsaSponsors {
+  text-align: center;
+  background-color: yellow;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/*Board Members */
+
+.alignleft {
+    display: inline;
+    margin-right: 1.5em;
+}
+.board{
+  border-bottom: solid;
+}
+.boardMemberContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.boardMemberItem {
+    display: flex;
+    align-items: center;
+    border: 3px solid black;
+    width: 100%;
+}
+img.boardMemberData {
+    width: 200px!important;
+    height: auto;
+    margin: 50px;
+}
+h3.boardMemberData {
+  margin-right: 20px;
+}
+
+@media (max-width: 420px) {
+  .boardMemberContainer {
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .boardMemberItem {
+      display: flex;
+      align-items: center;
+      border: 3px solid black;
+      width: 100%;
+      flex-direction: column
+  }
+  img.boardMemberData {
+      display: none;
+      width: 200px!important;
+      height: auto;
+      margin: 50px;
+  }
+
+}
+
+/*Donation Form */
+h2.give-form-title {
+    background-color: yellow;
+    text-align: center;
+}
+
+
+/*Sponsor */
+
+.logoSponsorContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.logoSponsorItem {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+img.logoSponsorItemImage {
+    width: 400px;
+    height: 300px;
+}
+.pureWestContainer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+/*Financial Assistance */
+
+.resourcesHeader {
+    background-color: yellow;
+    text-align: center;
+}
+
+/* Resources */
+.financialInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: solid;
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+}
+.dsAssociations {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.dsAssociationItem {
+    display: flex;
+    border: 3px solid black;
+    margin: 20px 0px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+/*Buddy Walk */
+
+.buddyWalkHeader {
+  background-color: yellow!important;
+  text-align: center!important;
+}
+.buddyWalkInfo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header */
+.grop-header_navigations.grop-header_sticky_active {
+    background-color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+}
+
+/*Events */
+
+.grop-evensiglcnd_warp {
+  background-color: #151515;
+  padding: 13px 30px 13px 40px;
+  margin-top: 44px;
+  display: none!important
+}
+
+/* Footer */
+.grop-footer_areas {
+    position: relative;
+    bottom: 0;
+    height: 30px
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-bottom: 0;
+}
+.grop-footer-bottom {
+    bottom: 0;
+    background-color: #111111;
+    color: #555555;
+    display: block;
+}
+.mtdsaFooter {
+    display: flex;
+    justify-content: center;
+}
+
+.mtdsaFooterItem {
+    display: flex;
+    padding: 10px;
+}
