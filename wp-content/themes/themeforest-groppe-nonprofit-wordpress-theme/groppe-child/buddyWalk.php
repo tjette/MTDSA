@@ -12,7 +12,7 @@ get_header(); ?>
 				endif;
 			endwhile;
 			  ?>
-        <div class='buddyWalkHeader'>
+        <div class='buddyWalkHeader container'>
           <h1>Buddy Walk</h1>
         </div>
         <div class='buddyWalkInfo'>

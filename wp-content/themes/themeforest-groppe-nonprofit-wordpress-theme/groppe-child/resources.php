@@ -12,19 +12,23 @@
  				endif;
  			endwhile;
  			  ?>
-
+        <div class='container'>
         <div class='resourcesHeader'>
           <h1>RESOURCES</h1>
         </div>
         <div class='financialInfo'>
           <h3>Financial Assistance Application</h3>
-          <a href='https://mtdsa.org/wp-content/uploads/2015/08/MTDSA-Financial-Assistance-Application.pdf'><button class='btn btn-primary'>Application</button></a>
+          <a href='https://mtdsa.org/wp-content/uploads/2017/11/MTDSA-Financial-Assistance-Application.pdf'><button class='btn btn-primary'>Application</button></a>
+          <p> Please send application to Montana Down Syndrome Association, PO Box 16717, Missoula, MT 59808</p>
+          <p> If you have any questions, email Philip at <a mailto='Philip@mtdsa.org'</a>Philip@mtdsa.org</p>
         </div>
         <div class='dsAssociations'>
-          <h3>Down Syndrome Associations</h3>
-          <p>Chances are you know an individual with Down syndrome. Maybe a child in school, a neighbor, or someone you see regularly around town. One in every 691 babies in the the United States is born with Down syndrome, making it the most common genetic condition. Approximately 400,000 Americans have Down syndrome and about 6,000 babies with Down syndrome are born in the United States each year.
-          Down syndrome is a genetic condition that occurs when an individual has a full or partial extra copy of chromosome 21. That's all it takes to affect the individual's health, development, and physical appearance. Every single person with Down syndrome is different. Some go to college and others struggle to communicate or need help being independent. The most common physical characteristics of Down syndrome are low muscle tone, small stature, an upward slant to the eyes, and a single deep crease across the center of the palm. Although it may seem like individuals with Down syndrome look similar, everyone is different and we encourage you to think of Down syndrome as just one piece of the total person. Taking the time to learn about Down syndrome is important, but it's even more important to learn about the individual person so that you can celebrate their unique contributions to our community.
-          Check out these resources to learn more:</p>
+          <div class='dsAssociationItem'>
+            <h3>Down syndrome Associations</h3>
+            <p>Chances are you know an individual with Down syndrome. Maybe a child in school, a neighbor, or someone you see regularly around town. One in every 691 babies in the the United States is born with Down syndrome, making it the most common genetic condition. Approximately 400,000 Americans have Down syndrome and about 6,000 babies with Down syndrome are born in the United States each year.
+            Down syndrome is a genetic condition that occurs when an individual has a full or partial extra copy of chromosome 21. That's all it takes to affect the individual's health, development, and physical appearance. Every single person with Down syndrome is different. Some go to college and others struggle to communicate or need help being independent. The most common physical characteristics of Down syndrome are low muscle tone, small stature, an upward slant to the eyes, and a single deep crease across the center of the palm. Although it may seem like individuals with Down syndrome look similar, everyone is different and we encourage you to think of Down syndrome as just one piece of the total person. Taking the time to learn about Down syndrome is important, but it's even more important to learn about the individual person so that you can celebrate their unique contributions to our community.
+            Check out these resources to learn more:</p>
+          </div>
           <div class='dsAssociationItem'>
             <h3><a href="http://www.ndss.org/" target="_blank">National Down Syndrome Society</a></h3>
             The mission of the National Down Syndrome Society is to be the national advocate for the value, acceptance and inclusion of people with Down syndrome. The NDSS website provides basic information about Down syndrome as well as specific resources for parents.
@@ -54,6 +58,7 @@
           Great Falls, MT. Buddy Walk date: Oct 3, 2015.
           </div>
         </div>
+      </div>
 
 
 

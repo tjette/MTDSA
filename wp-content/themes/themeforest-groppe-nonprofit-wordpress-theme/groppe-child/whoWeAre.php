@@ -17,7 +17,7 @@ get_header(); ?>
           <h1>Who We Are</h1>
         </div>
         <div class='whoWeAreInfo'>
-          <img class="alignright size-large wp-image-161" src="https://mtdsa.org/wp-content/uploads/2017/10/buddy-walk-2-buddy-walk-2-0045.jpg" alt="family" width="600" />The Montana Down Syndrome Association was formed in Missoula, Montana in the spring of 2014 by families and friends of persons with Down Syndrome. We recognize the need for families to get together to learn from each other and provide support. We also wanted to make sure that families know about the resources, research, and services that are available for individuals with Down syndrome.
+          <img class="alignright size-large wp-image-161" src="https://mtdsa.org/wp-content/uploads/2017/10/buddy-walk-2-buddy-walk-2-0045.jpg" alt="family" width="600" />The Montana Down Syndrome Association was formed in Missoula, Montana in the spring of 2014 by families and friends of persons with Down syndrome. We recognize the need for families to get together to learn from each other and provide support. We also wanted to make sure that families know about the resources, research, and services that are available for individuals with Down syndrome.
           <p class='ourMission'>Our mission is to honor and nurture the extraordinary lives of people with Down syndrome by advocating for them as well as providing educational, financial, social, and emotional support.</p>
           <p class='projectExploring'>Here are the projects we will be exploring:</p>
           <ul>

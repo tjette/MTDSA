@@ -15,9 +15,12 @@
 /* Write Custom CSS */
 
 /* Home Page */
-
+body {
+  background-color: #E0E0E0;
+}
 .homeContainer {
-    background-color: yellow;
+    background-color:  #80bfff
+;
     text-align: center;
 }
 
@@ -26,7 +29,7 @@
 }
 
 .resourceContainer {
-    background-color: yellow;
+    background-color:  #80bfff;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -46,9 +49,16 @@
     align-items: center;
     padding:25px;
 }
+.grop-banner-area {
+  background-image: url(https://mtdsa.org/wp-content/uploads/2017/10/awarenessproject-awarenessproject-0002-600x400.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 500px;
+}
+
 @media (max-width: 420px) {
   .resourceContainer {
-      background-color: yellow;
+      background-color:  #80bfff;
       text-align: center;
       padding-top: 20px;
       padding-bottom: 20px;
@@ -78,9 +88,10 @@
 
 .boardMemberHeader {
     text-align: center;
-    background-color: yellow;
+    background-color:  #80bfff;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .boardMembers {
@@ -95,7 +106,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    border: 3px solid black;
+    margin-bottom: 10px;
 }
 img.boardMemberImage {
     border-radius: 50%;
@@ -115,7 +126,6 @@ img.boardMemberImage {
       flex-wrap: wrap;
   }
   .boardMember {
-      border: 2px solid black;
       padding: 50px 50px 50px 50px;
       width: 100%;
       display: flex;
@@ -132,9 +142,10 @@ img.boardMemberImage {
 }
 .donateHeader {
     text-align: center;
-    background-color: yellow;
+    background-color:  #80bfff;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 25px;
 }
 h3.helpDonate {
     text-align: center;
@@ -145,11 +156,13 @@ button.btn.btn-primary.donateButton {
 }
 .mtdsaSponsors {
   text-align: center;
-  background-color: yellow;
+  background-color:  #80bfff;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-
+.sponsorSlider{
+  margin-top: 25px;
+}
 /*Board Members */
 
 .alignleft {
@@ -166,13 +179,16 @@ button.btn.btn-primary.donateButton {
 .boardMemberItem {
     display: flex;
     align-items: center;
-    border: 3px solid black;
     width: 100%;
+    margin-bottom: 10px;
 }
 img.boardMemberData {
     width: 200px!important;
     height: auto;
     margin: 50px;
+}
+p.boardMemberData {
+    margin-right: 25px;
 }
 h3.boardMemberData {
   margin-right: 20px;
@@ -201,8 +217,10 @@ h3.boardMemberData {
 
 /*Donation Form */
 h2.give-form-title {
-    background-color: yellow;
+    background-color:  #80bfff;
     text-align: center;
+    padding-top:20px!important;
+    padding-bottom:20px!important;
 }
 
 
@@ -225,18 +243,30 @@ h2.give-form-title {
 img.logoSponsorItemImage {
     width: 400px;
     height: 300px;
+    margin: 25px;
 }
 .pureWestContainer {
     display: flex;
     justify-content: center;
     padding-bottom: 20px;
 }
+h4.widgettitle {
+    text-align: center;
+    font-size: 36px;
+    background-color:  #80bfff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
 
 /*Financial Assistance */
 
 .resourcesHeader {
-    background-color: yellow;
+    background-color:  #80bfff;
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }
 
 /* Resources */
@@ -270,8 +300,10 @@ img.logoSponsorItemImage {
 /*Buddy Walk */
 
 .buddyWalkHeader {
-  background-color: yellow!important;
+  background-color:  #80bfff!important;
   text-align: center!important;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .buddyWalkInfo {
     display: flex;

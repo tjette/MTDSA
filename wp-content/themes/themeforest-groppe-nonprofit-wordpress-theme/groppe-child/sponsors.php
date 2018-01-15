@@ -12,8 +12,8 @@
  				endif;
  			endwhile;
  			  ?>
-        <div class="sponsorContainer">
-					<h4 class="widgettitle">buddywalk <span class="accent-color">best buddy sponsors</span></h4>
+        <div class="sponsorContainer container">
+					<h4 class="widgettitle">Buddy Walk <span class="accent-color">Best Buddy Sponsors</span></h4>
 
           <div class='pureWestContainer'>
             <a href="http://purewestrealestate.com/agents/detail/devinkhoury" target="_blank"><img class='pureWestImage' src="https://mtdsa.org/wp-content/uploads/2017/10/pureWest-e1509213058743.jpg"></a>
@@ -58,7 +58,7 @@
               </div>
 				  </div>
               <div class='goodBuddyContainer'>
-                <h4 class="widgettitle">buddywalk <span class="accent-color">good buddy sponsors</span></h4>
+                <h4 class="widgettitle">Buddy Walk <span class="accent-color">Good Buddy Sponsors</span></h4>
     						<ul class="sponsor_list">
     							<li>Summit Beverage</li>
     							<li>Montana Independant Bankers</li>
@@ -72,7 +72,7 @@
 
               </div>
               <div class='littleBuddyContainer'>
-    						<h4 class="widgettitle" style="margin-top:24px;">buddywalk <span class="accent-color">little buddy sponsors</span></h4>
+    						<h4 class="widgettitle" style="margin-top:24px;">Buddy Walk <span class="accent-color">Little Buddy Sponsors</span></h4>
     						<ul class="sponsor_list">
     							<li>Grizzly Sports & Family Chiropractic</li>
     							<li>John R. Velk Law Offices</li>

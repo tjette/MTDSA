@@ -32,7 +32,7 @@ MTDSA is a 501(c)(3) Organization: Tax ID#: 47-1115039</p>
           </div>
           <div class='resourceInfo'>
             <i class="fa fa-sitemap fa-5x resourceInfoItem" aria-hidden="true"></i>
-            <a href='/wordpress/resources'><button class='btn btn-primary resourceInfoItem'>Down Syndrome Associations</button></a>
+            <a href='/wordpress/resources'><button class='btn btn-primary resourceInfoItem'>Down syndrome Associations</button></a>
           </div>
         </div>
         <div class='boardMemberHeader'>
@@ -42,42 +42,38 @@ MTDSA is a 501(c)(3) Organization: Tax ID#: 47-1115039</p>
           <div class='boardMember'>
             <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/philipBioPic.png' />
             <h5>Philip L. Yasenak, President</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
           <div class='boardMember'>
             <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/rachelleJetteBioPic.jpg' />
             <h5>Rachelle Jette, Vice President</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
           <div class='boardMember'>
             <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/Professional-Pic-Sam-e1510093437968.jpg' />
             <h5>Sam Foshag, Treasurer</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
+					<div class='boardMember'>
+            <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/12/431918_755037177726_751259633_n-e1513651811840.jpg' />
+            <h5>Erika Surmi, Secretary</h5>
+          </div>
+					<div class='boardMember'>
+						<img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/karenBaileyBioPic.png' />
+						<h5>Karen Bailey</h5>
+					</div>
           <div class='boardMember'>
             <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/katieBioPic.jpg' />
-            <h5>Katie Seaman, Secretary</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
-          </div>
-          <div class='boardMember'>
-            <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/karenBaileyBioPic.png' />
-            <h5>Karen Bailey</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
+            <h5>Katie Seaman</h5>
           </div>
           <div class='boardMember'>
             <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/erinBioPic.jpg' />
             <h5>Erin Thorsen</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
           <div class='boardMember'>
             <img class='boardMemberImage'src='https://mtdsa.org/wp-content/uploads/2017/11/jessieCrowleyBioPic.png' />
             <h5>Jessie Crowley</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
           <div class='boardMember'>
-            <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/kelseyBioPic.jpg' />
+            <img class='boardMemberImage' src='https://mtdsa.org/wp-content/uploads/2017/11/kelsey-Lexar-0005-e1511547216908.jpg' />
             <h5>Kelsey Adcock</h5>
-            <a href="/board-members"><button class='btn btn-primary'>Read Bio</button></a>
           </div>
         </div>
         <div class=''>
